@@ -1,2 +1,0 @@
-# mpisortingproject
-MPI project
